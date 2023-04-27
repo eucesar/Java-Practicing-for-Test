@@ -9,7 +9,7 @@
 ## Download
 
 ```sh
-https://github.com/eucesar/Java-Practicing-for-Tes.git
+https://github.com/eucesar/Java-Practicing-for-Test.git
 ```
 
 ## Cesar
